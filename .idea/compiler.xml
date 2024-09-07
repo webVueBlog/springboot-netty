@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dada-demo-netty-3-01" />
+        <module name="dada-demo-netty-1-01" />
+        <module name="dada-demo-netty-2-13" />
+        <module name="dada-demo-netty-1-00" />
+        <module name="dada-demo-netty-2-12" />
+        <module name="dada-demo-netty-2-11" />
+        <module name="dada-demo-netty-2-10" />
+        <module name="dada-demo-netty-2-06" />
+        <module name="dada-demo-netty-2-05" />
+        <module name="dada-demo-netty-2-04" />
+        <module name="dada-demo-netty-2-03" />
+        <module name="dada-demo-netty-2-09" />
+        <module name="dada-demo-netty-2-08" />
+        <module name="dada-demo-netty-2-07" />
+        <module name="dada-demo-netty-1-12" />
+        <module name="dada-demo-netty-2-02" />
+        <module name="dada-demo-netty-1-11" />
+        <module name="dada-demo-netty-2-01" />
+        <module name="dada-demo-netty-1-10" />
+        <module name="dada-demo-netty-1-05" />
+        <module name="dada-demo-netty-1-04" />
+        <module name="dada-demo-netty-1-03" />
+        <module name="dada-demo-netty-1-02" />
+        <module name="dada-demo-netty-1-09" />
+        <module name="dada-demo-netty-1-08" />
+        <module name="dada-demo-netty-1-07" />
+        <module name="dada-demo-netty-1-06" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itstack-demo-netty" target="1.8" />
+      <module name="itstack-demo-netty-1-02" target="1.5" />
+      <module name="itstack-demo-netty-1-03" target="1.5" />
+      <module name="itstack-demo-netty-1-04" target="1.5" />
+      <module name="itstack-demo-netty-1-05" target="1.5" />
+      <module name="itstack-demo-netty-1-06" target="1.5" />
+      <module name="itstack-demo-netty-1-07" target="1.5" />
+      <module name="itstack-demo-netty-1-08" target="1.5" />
+      <module name="itstack-demo-netty-1-09" target="1.5" />
+      <module name="itstack-demo-netty-1-10" target="1.5" />
+      <module name="itstack-demo-netty-1-11" target="1.5" />
+      <module name="itstack-demo-netty-1-12" target="1.5" />
+      <module name="itstack-demo-netty-2-01" target="1.5" />
+      <module name="itstack-demo-netty-2-02" target="1.5" />
+      <module name="itstack-demo-netty-2-03" target="1.5" />
+      <module name="itstack-demo-netty-2-04" target="1.5" />
+      <module name="itstack-demo-netty-2-05" target="1.5" />
+      <module name="itstack-demo-netty-2-06" target="1.8" />
+      <module name="itstack-demo-netty-2-07" target="1.5" />
+      <module name="itstack-demo-netty-2-08" target="1.5" />
+      <module name="itstack-demo-netty-2-09" target="1.5" />
+      <module name="itstack-demo-netty-2-10" target="1.5" />
+      <module name="itstack-demo-netty-2-11" target="1.5" />
+      <module name="itstack-demo-netty-2-12" target="1.5" />
+      <module name="itstack-demo-netty-2-13" target="1.5" />
+      <module name="itstack-demo-netty-3-01" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dada-demo-netty-2-06" options="-parameters" />
+      <module name="itstack-demo-netty-2-06" options="-parameters" />
+    </option>
+  </component>
+</project>

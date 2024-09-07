@@ -1,0 +1,16 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(œäëõ
+D
+java:S1874".Remove this use of "getUri"; it is deprecated.(œäëõ
+E	java:S106"+Replace this use of System.err by a logger.(…È¿’ÿÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(àÂÊ‹
+P
+java:S4719"":Replace Charset.forName() call with StandardCharsets.UTF_8(àÂÊ‹
+U
+java:S47192":Replace Charset.forName() call with StandardCharsets.UTF_8(³Ãï¿ÿÿÿÿÿ
+]
+java:S1128"BRemove this unused import 'io.netty.channel.socket.SocketChannel'.(ĞªÇÁúÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü

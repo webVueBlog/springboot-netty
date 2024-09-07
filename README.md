@@ -1,8 +1,6 @@
 
 # springboot-netty netty4.x案例
 
-由浅入深。{那么，给个Star星星吧！}
-
 - BIO、NIO、AIO
 - NettyServer
 - NettyServer接收数据
@@ -32,3 +30,18 @@
 - Netty基于ChunkedStream数据流切块传输
 - Netty流量整形数据流速率控制分析与实战
 - Netty基于SSL实现信息传输过程中双向加密验证
+
+## 高级应用篇(三章+)
+- [手写RPC框架第一章《自定义配置xml》]
+- [手写RPC框架第二章《netty通信》]
+- [手写RPC框架第三章《RPC中间件》]
+- [基于Netty实践搭建的物联网网关iot-gatway]
+- [websocket与下位机通过netty方式通信传输行为信息]
+
+## 源码分析篇
+- [netty案例，netty4.1源码分析篇一《NioEventLoopGroup源码分析》]
+- [netty案例，netty4.1源码分析篇二《ServerBootstrap配置与绑定启动》]
+- [netty案例，netty4.1源码分析篇三《Netty服务端初始化过程以及反射工厂的作用》]
+- [netty案例，netty4.1源码分析篇四《ByteBuf的数据结构在使用方式中的剖析》]
+- [netty案例，netty4.1源码分析篇五《一行简单的writeAndFlush都做了哪些事》]
+- [netty案例，netty4.1源码分析篇六《Netty异步架构监听类Promise源码分析》]

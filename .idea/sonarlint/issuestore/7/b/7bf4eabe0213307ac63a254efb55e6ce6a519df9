@@ -1,0 +1,4 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(¿¼‹‘úÿÿÿÿ8Íï”2J$6db6fc1b-0b06-4fed-80ba-a280704a6d6d
+}
+java:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(¿ÍåÜ8Íï”2J$2f45b525-66b4-4cc8-9f2e-3fb758bd575a

@@ -1,0 +1,10 @@
+
+`
+java:S2187"Add some tests to this class.(ªåÇ™8åëÑà”2J$eb8768e7-b892-4e7b-aba0-1a4c5d11642e
+}
+java:S1854I"5Remove this useless assignment to local variable "i".(’…ä–úÿÿÿÿ8çëÑà”2J$4865fad7-61f3-4098-8f8b-66a003de54b1
+n
+java:S1481I"&Remove this unused "i" local variable.(’…ä–úÿÿÿÿ8çëÑà”2J$eaf464a9-d5ec-403b-bf83-6217e9d7ec69
+~	java:S125c"<This block of commented-out lines of code should be removed.(¥ÚÖ¡8éëÑà”2J$71a70421-b258-4c13-8d2c-044bfcc19699
+€
+java:S1128"=Remove this unused import 'io.netty.buffer.CompositeByteBuf'.(æìÌ‰8éëÑà”2J$8cb0948e-e35b-4f43-86d7-cd839a43d1fa

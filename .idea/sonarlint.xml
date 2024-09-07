@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="dada-demo-netty-1-00" value="itstack-demo-netty-1-00" />
+        <entry key="dada-demo-netty-1-01" value="itstack-demo-netty-1-01" />
+      </map>
+    </option>
+  </component>
+</project>

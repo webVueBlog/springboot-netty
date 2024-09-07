@@ -1,0 +1,8 @@
+
+
+java:S1450"WRemove the "selector" field and declare it as a local variable in the relevant methods.(ϊ³ΰ«ψÿÿÿÿ8σεωο”2J$e947574b-8675-45dc-8ae0-11ee4ef2a888
+¤
+java:S1450"\Remove the "socketChannel" field and declare it as a local variable in the relevant methods.(£Ξ‰¶ψÿÿÿÿ8σεωο”2J$0a819a08-e090-475e-b847-6c831abe7dc1
+―
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ϋΏΨ8τεωο”2J$4c5caac4-b106-41ce-b387-3696e6f5bb83
+m	java:S106&"+Replace this use of System.out by a logger.(Νªςξ8φεωο”2J$324df835-f496-42b4-9d48-fe72c2b2de17
